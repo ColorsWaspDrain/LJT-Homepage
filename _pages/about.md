@@ -18,8 +18,8 @@ I am a first-year PhD candidate at HKUST NLP Group, Hong Kong University of Scie
 
 ## Research Experience
 - **Research Intern (February 2025 - Present)**, MINIMAX
-- **Research Intern (June 2024 - September 2024)**, Tencent WXG
-- **Research Intern (June 2023 - December 2023)**, Shanghai AI Lab
+- **Research Intern (June 2024 - September 2024)**, Tencent WXG (advisor: Zifei Shan)
+- **Research Intern (June 2023 - December 2023)**, Shanghai AI Lab (advisor: Prof. Yu Cheng)
 
 ## Publications
 1. **SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond** (2025), *First author*, Arxiv
